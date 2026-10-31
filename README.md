@@ -1,5 +1,5 @@
 👋 Hi, I'm Faiz Muhammed!
-💻 Developer | Technology Enthusiast | Lifelong Learner
+💻 Developer  | Technology Enthusiast | Lifelong Learner
 
 Welcome to my GitHub profile! I'm Faiz Muhammed, passionate about technology, programming, and continuous learning.
 
